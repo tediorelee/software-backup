@@ -1,0 +1,64 @@
+Chocolatey v0.10.15
+chocolatey 0.10.15
+1 packages installed.
+
+Adobe Creative Cloud|4.3.0.256
+Adobe Photoshop CC 2018|19.0
+Bandizip|6.24
+BeMusicSeeker|0.3.5.5
+Clash for Windows 0.7.6|0.7.6
+ConEmu 190714.x64|11.190.7140
+Discord|0.0.305
+ELAN Touchpad 11.15.0.18_X64|11.15.0.18
+Emby Server|4.2
+Git version 2.22.0.windows.1|2.22.0.windows.1
+Google Chrome|76.0.3809.132
+Gridea 0.8.2|0.8.2
+Insyde Airplane Mode HID Mini-Driver|1.4.0.7
+Intel(R) Processor Graphics|20.19.15.4531
+Internet Download Manager|
+Microsoft OneDrive|19.163.0818.0004
+Microsoft OneNote ?????? 2016 - zh-cn|16.0.11929.20254
+Microsoft Visual C++ 2005 Redistributable|8.0.59193
+Microsoft Visual C++ 2005 Redistributable (x64)|8.0.56336
+Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.17|9.0.30729
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.21022|9.0.21022
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17|9.0.30729
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219|10.0.40219
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219|10.0.40219
+Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030|11.0.61030.0
+Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030|11.0.61030.0
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501|12.0.30501.0
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501|12.0.30501.0
+Microsoft Visual C++ 2015 Redistributable (x86) - 14.0.23918|14.0.23918.0
+Microsoft Visual C++ 2017 Redistributable (x64) - 14.16.27012|14.16.27012.6
+Microsoft Visual Studio Code Insiders (User)|1.38.0
+Node.js|10.16.2
+NVIDIA Graphics Driver 382.05|382.05
+osu!|latest
+PicGo 2.1.2|2.1.2
+PotPlayer-64 bit|1.7.19955
+Proxifier 3.31 §§¯_ø‘|
+qBittorrent 4.1.6|4.1.6
+RaiDrive|1.8.0
+Realtek High Definition Audio Driver|6.0.1.7629
+Spotify|1.1.14.475.g566c8beb
+StartIsBack++|2.8.6
+Steam|2.10.91.91
+TeamViewer 14|14.4.2669
+Telegram Desktop version 1.8.2|1.8.2
+Tencent QQMail Plugin|
+TIM|2.3.2.21158
+Transmission 2.94 (d8e60ee44f) (x64)|2.94.0
+Typora version 0.9.74|0.9.74
+Vulkan Run Time Libraries 1.0.42.1|1.0.42.1
+WeChat|2.6.8.51
+WinFsp 2019.1|1.4.19016
+WinSCP 5.15.3|5.15.3
+?????|2.5.4.197709
+??QQ|9.1.7.25980
+55 applications not managed with Chocolatey.
+
+Did you know Pro / Business automatically syncs with Programs and
+ Features? Learn more about Package Synchronizer at
+ https://chocolatey.org/compare
