@@ -1,0 +1,21 @@
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/core"
+tap "khanhas/tap"
+brew "docker"
+brew "mas"
+brew "node"
+brew "yarn"
+brew "khanhas/tap/spicetify-cli"
+cask "docker"
+cask "soundcleod"
+cask "steam"
+mas "Microsoft Excel", id: 462058435
+mas "Microsoft OneNote", id: 784801555
+mas "Microsoft Outlook", id: 985367838
+mas "Microsoft PowerPoint", id: 462062816
+mas "Microsoft Remote Desktop", id: 1295203466
+mas "Microsoft Word", id: 462054704
+mas "OneDrive", id: 823766827
+mas "Pages", id: 409201541
+mas "Xnip", id: 1221250572
